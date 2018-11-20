@@ -7,15 +7,20 @@ List of design patterns written in java from Design Patterns course. Under const
 ### Singleton
 ![alt text](https://github.com/Ramonrune/design-patterns/blob/master/Singleton/SINGLETON.JPG?raw=true)
 
-## Builder
+### Builder
 ![alt text](https://github.com/Ramonrune/design-patterns/blob/master/Builder/BUILDER.JPG?raw=true)
 
-## Factory method
+### Factory method
 ![alt text](https://github.com/Ramonrune/design-patterns/blob/master/Factory-method/FACTORY_METHOD.JPG?raw=true)
 
-## Abstract factory
+### Abstract factory
 ![alt text](https://github.com/Ramonrune/design-patterns/blob/master/Abstract-factory/ABSTRACT-FACTORY.JPG?raw=true)
 
-## Prototype
+### Prototype
 ![alt text](https://github.com/Ramonrune/design-patterns/blob/master/Prototype/PROTOTYPE.JPG?raw=true)
+
+## Structural patterns
+
+### Façade
+![alt text](https://github.com/Ramonrune/design-patterns/blob/master/Facade/FACADE.JPG?raw=true)
 
