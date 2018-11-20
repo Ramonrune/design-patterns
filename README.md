@@ -24,3 +24,5 @@ List of design patterns written in java from Design Patterns course. Under const
 ### Façade
 ![alt text](https://github.com/Ramonrune/design-patterns/blob/master/Facade/FACADE.JPG?raw=true)
 
+### Adapter
+![alt text](https://github.com/Ramonrune/design-patterns/blob/master/Adapter/ADAPTER.JPG?raw=true)
