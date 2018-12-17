@@ -27,3 +27,5 @@ List of design patterns written in java from Design Patterns course. Under const
 ### Adapter
 ![alt text](https://github.com/Ramonrune/design-patterns/blob/master/Adapter/ADAPTER.JPG?raw=true)
  
+### Decorator
+![alt text](https://github.com/Ramonrune/design-patterns/blob/master/Decorator/DECORATOR.JPG?raw=true)
