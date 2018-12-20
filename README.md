@@ -32,3 +32,12 @@ List of design patterns written in java from Design Patterns course. Under const
 
 ### Bridge
 ![alt text](https://github.com/Ramonrune/design-patterns/blob/master/Bridge/BRIDGE.JPG?raw=true)
+
+### Composite
+![alt text](https://github.com/Ramonrune/design-patterns/blob/master/Composite/COMPOSITE.JPG?raw=true)
+
+### Proxy
+![alt text](https://github.com/Ramonrune/design-patterns/blob/master/Proxy/PROXY.JPG?raw=true)
+
+### Flyweight
+![alt text](https://github.com/Ramonrune/design-patterns/blob/master/Flyweight/FLYWEIGHT.JPG?raw=true)
