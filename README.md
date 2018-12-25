@@ -41,3 +41,31 @@ List of design patterns written in java from Design Patterns course. Under const
 
 ### Flyweight
 ![alt text](https://github.com/Ramonrune/design-patterns/blob/master/Flyweight/FLYWEIGHT.JPG?raw=true)
+
+
+## Behavioral patterns
+
+### Chain of responsability
+![alt text](https://github.com/Ramonrune/design-patterns/blob/master/ChainOfResponsability/CHAINOFRESPONSABILITY.JPG?raw=true)
+
+### Command
+![alt text](https://github.com/Ramonrune/design-patterns/blob/master/Command/COMMAND.JPG?raw=true)
+
+### Mediator
+![alt text](https://github.com/Ramonrune/design-patterns/blob/master/Mediator/MEDIATOR.JPG?raw=true)
+
+### Memento
+![alt text](https://github.com/Ramonrune/design-patterns/blob/master/Memento/MEMENTO.JPG?raw=true)
+
+### Observer
+![alt text](https://github.com/Ramonrune/design-patterns/blob/master/Observer/OBSERVER.JPG?raw=true)
+
+### Strategy
+![alt text](https://github.com/Ramonrune/design-patterns/blob/master/Strategy/STRATEGY.JPG?raw=true)
+
+### Visitor
+![alt text](https://github.com/Ramonrune/design-patterns/blob/master/Visitor/VISITOR.JPG?raw=true)
+
+
+
+
