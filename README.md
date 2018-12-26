@@ -66,6 +66,9 @@ List of design patterns written in java from Design Patterns course. Under const
 ### Visitor
 ![alt text](https://github.com/Ramonrune/design-patterns/blob/master/Visitor/VISITOR.JPG?raw=true)
 
+### State
+![alt text](https://github.com/Ramonrune/design-patterns/blob/master/State/STATE.JPG?raw=true)
+
 
 
 
