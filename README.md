@@ -75,3 +75,5 @@ List of design patterns written in java from Design Patterns course. Under const
 ### Inversion of control
 ![alt text](https://github.com/Ramonrune/design-patterns/blob/master/InversionOfControl/INVERSIONOFCONTROL.JPG?raw=true)
 
+### Data transfer object
+![alt text](https://github.com/Ramonrune/design-patterns/blob/master/DataTransferObject/DATATRANSFEROBJECT.JPG?raw=true)
