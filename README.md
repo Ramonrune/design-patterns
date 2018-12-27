@@ -72,4 +72,6 @@ List of design patterns written in java from Design Patterns course. Under const
 ### Template
 ![alt text](https://github.com/Ramonrune/design-patterns/blob/master/Template/TEMPLATE.JPG?raw=true)
 
+### Inversion of control
+![alt text](https://github.com/Ramonrune/design-patterns/blob/master/InversionOfControl/INVERSIONOFCONTROL.JPG?raw=true)
 
