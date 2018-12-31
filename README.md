@@ -1,6 +1,6 @@
 # Design patterns catalog
 
-List of design patterns written in java from Design Patterns course. Under construction.
+List of design patterns written in java from Design Patterns course. 
 
 ## Creational patterns
 
