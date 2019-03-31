@@ -1,5 +1,7 @@
 # Design patterns catalog
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d52543d7ed534bbbb94c86ca5ecaacab)](https://app.codacy.com/app/Ramonrune/design-patterns?utm_source=github.com&utm_medium=referral&utm_content=Ramonrune/design-patterns&utm_campaign=Badge_Grade_Settings)
+
 List of design patterns written in java from Design Patterns course. 
 
 ## Creational patterns
